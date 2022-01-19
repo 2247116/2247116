@@ -6,4 +6,4 @@ I am currenlty working on an extension on my masters project - Expanding it to :
       - Enusre the tests sets do not include Synth data 
       - Save results to file
       
- These changes should make the reuslts of the project irreproacable and allow for a much larger test set. 
+This also includes refactoring the majoirty of code to refelct the changes hilighted above
