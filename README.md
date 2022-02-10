@@ -7,3 +7,7 @@ I am currenlty working on an extension on my masters project - Expanding it to :
       - Save results to file
       
 This also includes refactoring the majoirty of code to refelct the changes hilighted above
+
+
+I've also gota few personla projects that I am going to uploading to here. 
+The first being an analysis on a covid dataset - However this produced relativley poor results given the dataset used (lack of features). 
